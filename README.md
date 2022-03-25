@@ -11,7 +11,7 @@ I intend to create a series of short video tutorials along with the codes, which
 >> * Things to be careful when using VNP46A2 data
 >> * Other VNP46 data
 
-Currently, I am collating codes and recording tutorials. Please keep update this repo and my [twitter(https://twitter.com/QimingZheng2)]. 
+Currently, I am collating codes and recording tutorials. Please keep update this repo and [my twitter](https://twitter.com/QimingZheng2). 
 
 
 Qiming
