@@ -1,18 +1,18 @@
 ## EP2
 
-###Before start
+### Before we start
 >>*Account in LAADS DAAC (https://ladsweb.modaps.eosdis.nasa.gov/)
 >>
 >>*wget (www.gnu.org/software/wget/)
 >>
 >>*PC/HPC server (recommend)
 
-###Steps:
+### Steps:
 >>*Select tiles – submit request – get the download code
 >>
 >>*PC or HPC server 
 
-###Tricks
+### Tricks
 >>*How to effectively download thousands of tiles
 
 ### For details please check the video in
