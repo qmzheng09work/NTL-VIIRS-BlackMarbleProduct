@@ -1,1 +1,11 @@
-ddd
+#EP4 - preproessing -1
+
+Tutorial data: https://figshare.com/articles/dataset/tutorial_data_zip/19608267
+
+Process:
+1. ArcMap / QGIS create tile_city.shp and city.shp
+2. HDF2TIFF_v1.py
+3. Mosaic_v1.py 
+
+Tutorial video can be found in my BiliBili channel
+
