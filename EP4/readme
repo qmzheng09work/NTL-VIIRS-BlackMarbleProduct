@@ -1,13 +1,12 @@
 #EP4 - preproessing -1
 
 Tutorial data: https://figshare.com/articles/dataset/tutorial_data_zip/19608267
+Tutorial video: https://www.bilibili.com/video/BV11A4y1Q7ev?spm_id_from=444.41.list.card_archive.click
 
 Process:
 1. ArcMap / QGIS create tile_city.shp and city.shp
 2. HDF2TIFF_v1.py
 3. Mosaic_v1.py 
-
-Tutorial video can be found in my BiliBili channel
 
 Citation:
 Zheng, Q., Weng, Q., Zhou, Y., & Dong, B. (2022). Impact of temporal compositing on nighttime light data and its applications. Remote Sensing of Environment, 274, 113016.
