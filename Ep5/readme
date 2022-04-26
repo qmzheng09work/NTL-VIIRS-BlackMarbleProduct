@@ -1,3 +1,9 @@
-This episode of tutorial talks about (1) to-be-cautious issue when applying my codes for pre-processing Black Marble data and (2) the missing tile issue (including my code to identify missing tiles)
+This episode of tutorial talks about
+(1) to-be-cautious issue when applying my codes for pre-processing Black Marble data and 
+(2) the missing tile issue (including my code to identify missing tiles; see [check_missing_tile.m]
+check my tutorial video in https://www.bilibili.com/video/BV1bT4y1r7Gv/
 
-check my tutorial video in 
+Ps: missing tile means that a certain tile-year-doy is missing the NASA's database (e.g., h30v05, 2016273)
+check: 
+missing tile "20160273.h30v05" in https://ladsweb.modaps.eosdis.nasa.gov/archive/allData/5000/VNP46A2/2016/273/
+while tiles in other year-doy exist: https://ladsweb.modaps.eosdis.nasa.gov/archive/allData/5000/VNP46A2/2016/272/
